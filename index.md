@@ -10,7 +10,7 @@
 2002-11-25 平成14年11月25日</b></p>
     </td>
     <td width="25%">
-      <img src="/Orlando.jpg" width="100%">      % 
+      <img src="/Orlando.jpg" width="100%">
     </td>
   </tr>
 </table>
