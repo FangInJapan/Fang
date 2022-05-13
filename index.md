@@ -1,10 +1,3 @@
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="/Orlando.jpg" width="100%">
-    </td>
-  </tr>
-</table>
 
 ## 个人信息 Personal Information 個人情報
 ### 姓名 Name 名前
